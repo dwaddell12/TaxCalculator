@@ -1,0 +1,12 @@
+c:\users\david\documents\visual studio 2013\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\david\documents\visual studio 2013\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+C:\Users\david\documents\visual studio 2013\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\david\documents\visual studio 2013\Projects\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\david\documents\visual studio 2013\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\david\documents\visual studio 2013\Projects\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\david\dwaddell_apps\csharp102\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\david\dwaddell_apps\csharp102\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\david\dwaddell_apps\csharp102\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\david\dwaddell_apps\csharp102\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\david\dwaddell_apps\csharp102\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\david\dwaddell_apps\csharp102\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
